@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "fa-IR"
-title                    : "Ali Ebrahimi resume"
+title                    : "Ali Ebrahimi"
 title_separator          : "-"
 name                     : &name "Ali Ebrahimi"
 description              : &description " "
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ali Ebrahimi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am currently pursuing a PhD in Control Engineering at Amirkabir University. My research interests revolve around cutting-edge topics such as reinforcement learning, fuzzy systems, neural networks, intelligent control, and robotics. In line with my passion for sharing knowledge, I have established ControlAcademy.ir, a platform where I actively contribute and provide valuable insights based on my personal experiences and interests in the field."
+  location         : "Amirkabir University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "aliebrmy@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/aliebrmy"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "aliebrmy"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ali-ebrahimi-422624153/"
+  orcid            : "https://orcid.org/my-orcid?emailVerified=true&orcid=0009-0005-4666-9257"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
