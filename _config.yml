@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Ali Eb"
+locale                   : "fa-IR"
+title                    : "Ali Ebrahimi resume"
 title_separator          : "-"
-name                     : &name "Ali eb"
-description              : &description "it is me"
+name                     : &name "Ali Ebrahimi"
+description              : &description " "
 url                      : https://aliebrmy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aliebrmy/aliebrmy.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"# "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "AAlie"
+  name             : "Ali Ebrahimi"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
